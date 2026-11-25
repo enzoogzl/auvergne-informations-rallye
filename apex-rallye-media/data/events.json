@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Rallye du Dauphiné – Haut-Vivarais",
+    "date": "2026-12-04",
+    "endDate": "2026-12-05",
+    "place": "Pont-de-l’Isère (Drôme)",
+    "lat": 45.005,
+    "lon": 4.874,
+    "status": "À venir",
+    "description": "Rendez-vous annoncé au calendrier de la Ligue Rhône-Alpes. Programme détaillé et accès spectateurs à confirmer auprès de l’organisateur.",
+    "url": "https://www.rhone-alpes-auto.com/page/calendrier-11.html?month=12&year=2026"
+  },
+  {
+    "name": "Rallye de la Haute Vallée d’Azergues",
+    "date": "2027-02-19",
+    "endDate": "2027-02-20",
+    "place": "Haute Vallée d’Azergues (Rhône)",
+    "lat": 46.05,
+    "lon": 4.5,
+    "status": "Calendrier ligue",
+    "description": "Dates annoncées au calendrier de la Ligue Rhône-Alpes. Parcours et horaires à confirmer.",
+    "url": "https://www.rhone-alpes-auto.com/page/calendrier-11.html?all=yes&year=2027"
+  },
+  {
+    "name": "Rallye des Collines ardéchoises",
+    "date": "2027-02-27",
+    "endDate": "2027-02-28",
+    "place": "Ardèche",
+    "lat": 44.75,
+    "lon": 4.45,
+    "status": "Calendrier ligue",
+    "description": "Dates annoncées au calendrier de la Ligue Rhône-Alpes. Secteur précis et parcours à confirmer.",
+    "url": "https://www.rhone-alpes-auto.com/page/calendrier-11.html?all=yes&year=2027"
+  },
+  {
+    "name": "Rallye Baldomérien",
+    "date": "2027-03-05",
+    "endDate": "2027-03-06",
+    "place": "Forez (Loire)",
+    "lat": 45.59,
+    "lon": 4.32,
+    "status": "Calendrier ligue",
+    "description": "Dates annoncées au calendrier de la Ligue Rhône-Alpes. Parcours et horaires à confirmer.",
+    "url": "https://www.rhone-alpes-auto.com/page/calendrier-11.html?all=yes&year=2027"
+  },
+  {
+    "name": "Rallye des Vignes de Régnié",
+    "date": "2027-03-19",
+    "endDate": "2027-03-20",
+    "place": "Beaujolais (Rhône)",
+    "lat": 46.15,
+    "lon": 4.62,
+    "status": "Calendrier ligue",
+    "description": "Dates annoncées au calendrier de la Ligue Rhône-Alpes. Spéciales et horaires à confirmer.",
+    "url": "https://www.rhone-alpes-auto.com/page/calendrier-11.html?all=yes&year=2027"
+  },
+  {
+    "name": "Rallye Pays du Gier",
+    "date": "2027-03-26",
+    "endDate": "2027-03-27",
+    "place": "Loire",
+    "lat": 45.53,
+    "lon": 4.58,
+    "status": "Calendrier ligue",
+    "description": "Dates annoncées au calendrier de la Ligue Rhône-Alpes. Parcours et horaires à confirmer.",
+    "url": "https://www.rhone-alpes-auto.com/page/calendrier-11.html?all=yes&year=2027"
+  }
+]
